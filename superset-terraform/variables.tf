@@ -22,3 +22,4 @@ variable "cluster_id" {
   description = "The ECS Cluster ID"
   type        = string
 }
+
